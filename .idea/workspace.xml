@@ -1,0 +1,573 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f665d733-56e7-4a87-861d-b8831d779cc4" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/java/com/stakeroute/exercise5/ArrayListUpdate.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/java/com/stakeroute/exercise5/ReturnTrueFalse.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="370">
+              <caret line="34" column="50" selection-start-line="34" selection-start-column="50" selection-end-line="34" selection-end-column="50" />
+              <folding>
+                <element signature="e#0#1286#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/java/com/stakeroute/exercise5/SwapTheStringValue.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="442">
+              <caret line="26" column="73" selection-start-line="26" selection-start-column="73" selection-end-line="26" selection-end-column="73" />
+              <folding>
+                <element signature="e#0#905#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/java/com/stakeroute/exercise5/Student.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="10">
+              <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+              <folding>
+                <element signature="e#0#2062#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/java/com/stakeroute/exercise5/StringCount.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="13" column="58" selection-start-line="13" selection-start-column="58" selection-end-line="13" selection-end-column="58" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/com/stakeroute/exercise5/SwapTheStringValueTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="29" column="61" selection-start-line="29" selection-start-column="61" selection-end-line="29" selection-end-column="61" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/java/com/stakeroute/exercise5/SortRandomNames.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="42" selection-start-line="12" selection-start-column="42" selection-end-line="12" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/com/stakeroute/exercise5/SortRandomNamesTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="22" column="22" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit4 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <dirStrings>
+      <dir>$PROJECT_DIR$/src/java/com/stakeroute/exercise5</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/test/com/stakeroute/exercise5/ArrayListUpdateTest.java" />
+        <option value="$PROJECT_DIR$/src/java/com/stakeroute/exercise5/ArrayListUpdate.java" />
+        <option value="$PROJECT_DIR$/../Exercise 4/src/java/com/stakeroute/exercise4/CharacterCount.java" />
+        <option value="$PROJECT_DIR$/src/test/com/stakeroute/exercise5/ReturnTrueFalseTest.java" />
+        <option value="$PROJECT_DIR$/src/java/com/stakeroute/exercise5/StringCount.java" />
+        <option value="$PROJECT_DIR$/src/test/com/stakeroute/exercise5/StringCountTest.java" />
+        <option value="$PROJECT_DIR$/src/test/com/stakeroute/exercise5/StudentTest.java" />
+        <option value="$PROJECT_DIR$/src/test/com/stakeroute/exercise5/SwapTheStringValueTest.java" />
+        <option value="$PROJECT_DIR$/src/test/com/stakeroute/exercise5/SortRandomNamesTest.java" />
+        <option value="$PROJECT_DIR$/src/java/com/stakeroute/exercise5/SwapTheStringValue.java" />
+        <option value="$PROJECT_DIR$/src/java/com/stakeroute/exercise5/Student.java" />
+        <option value="$PROJECT_DIR$/src/java/com/stakeroute/exercise5/SortRandomNames.java" />
+        <option value="$PROJECT_DIR$/src/java/com/stakeroute/exercise5/ReturnTrueFalse.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="559" />
+    <option name="y" value="85" />
+    <option name="width" value="576" />
+    <option name="height" value="815" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Exercise-5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Exercise-5" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Exercise-5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Exercise-5" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Exercise-5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Exercise-5" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Exercise-5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Exercise-5" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Exercise-5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Exercise-5" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="stakeroute" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Exercise-5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Exercise-5" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="stakeroute" type="462c0819:PsiDirectoryNode" />
+              <item name="exercise5" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Exercise-5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Exercise-5" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="stakeroute" type="462c0819:PsiDirectoryNode" />
+              <item name="exercise5" type="462c0819:PsiDirectoryNode" />
+              <item name="Student.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="Exercise-5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Exercise-5" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Exercise-5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Exercise-5" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Exercise-5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Exercise-5" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="stakeroute" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Exercise-5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Exercise-5" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="stakeroute" type="462c0819:PsiDirectoryNode" />
+              <item name="exercise5" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.stakeroute.exercise5" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.SortRandomNamesTest.givenStringReturnSortedText">
+    <configuration name="ReturnTrueFalseTest.givenStringShouldReturnNull" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Exercise-5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stakeroute.exercise5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.stakeroute.exercise5" />
+      <option name="MAIN_CLASS_NAME" value="com.stakeroute.exercise5.ReturnTrueFalseTest" />
+      <option name="METHOD_NAME" value="givenStringShouldReturnNull" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReturnTrueFalseTest.givenStringShouldReturnTrue" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Exercise-5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stakeroute.exercise5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.stakeroute.exercise5" />
+      <option name="MAIN_CLASS_NAME" value="com.stakeroute.exercise5.ReturnTrueFalseTest" />
+      <option name="METHOD_NAME" value="givenStringShouldReturnTrue" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SortRandomNamesTest.givenStringReturnSortedText" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Exercise-5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stakeroute.exercise5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.stakeroute.exercise5" />
+      <option name="MAIN_CLASS_NAME" value="com.stakeroute.exercise5.SortRandomNamesTest" />
+      <option name="METHOD_NAME" value="givenStringReturnSortedText" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StudentTest.returnAgeNameIdOfStudent" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Exercise-5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stakeroute.exercise5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.stakeroute.exercise5" />
+      <option name="MAIN_CLASS_NAME" value="com.stakeroute.exercise5.StudentTest" />
+      <option name="METHOD_NAME" value="returnAgeNameIdOfStudent" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SwapTheStringValueTest.givenTwoStringReturnOneEmptyStringOneswappedValue" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Exercise-5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stakeroute.exercise5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.stakeroute.exercise5" />
+      <option name="MAIN_CLASS_NAME" value="com.stakeroute.exercise5.SwapTheStringValueTest" />
+      <option name="METHOD_NAME" value="givenTwoStringReturnOneEmptyStringOneswappedValue" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SortRandomNamesTest.givenStringReturnSortedText" />
+        <item itemvalue="JUnit.SwapTheStringValueTest.givenTwoStringReturnOneEmptyStringOneswappedValue" />
+        <item itemvalue="JUnit.StudentTest.returnAgeNameIdOfStudent" />
+        <item itemvalue="JUnit.ReturnTrueFalseTest.givenStringShouldReturnNull" />
+        <item itemvalue="JUnit.ReturnTrueFalseTest.givenStringShouldReturnTrue" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f665d733-56e7-4a87-861d-b8831d779cc4" name="Default Changelist" comment="" />
+      <created>1562149075390</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1562149075390</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="SwapTheStringValueTest_givenTwoStringReturnOneEmptyStringOneswappedValue - 2019.07.04 at 15h 26m 33s.xml">
+      <configuration name="SwapTheStringValueTest.givenTwoStringReturnOneEmptyStringOneswappedValue" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SwapTheStringValueTest_givenTwoStringReturnOneEmptyStringOneswappedValue - 2019.07.04 at 15h 26m 55s.xml">
+      <configuration name="SwapTheStringValueTest.givenTwoStringReturnOneEmptyStringOneswappedValue" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SwapTheStringValueTest_givenTwoStringReturnOneEmptyStringOneswappedValue - 2019.07.04 at 15h 30m 02s.xml">
+      <configuration name="SwapTheStringValueTest.givenTwoStringReturnOneEmptyStringOneswappedValue" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SwapTheStringValueTest_givenTwoStringReturnOneEmptyStringOneswappedValue - 2019.07.04 at 15h 32m 22s.xml">
+      <configuration name="SwapTheStringValueTest.givenTwoStringReturnOneEmptyStringOneswappedValue" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SwapTheStringValueTest_givenTwoStringReturnOneEmptyStringOneswappedValue - 2019.07.04 at 15h 33m 42s.xml">
+      <configuration name="SwapTheStringValueTest.givenTwoStringReturnOneEmptyStringOneswappedValue" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SwapTheStringValueTest_givenTwoStringReturnOneEmptyStringOneswappedValue - 2019.07.04 at 15h 34m 27s.xml">
+      <configuration name="SwapTheStringValueTest.givenTwoStringReturnOneEmptyStringOneswappedValue" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SwapTheStringValueTest_givenTwoStringReturnOneEmptyStringOneswappedValue - 2019.07.04 at 15h 35m 49s.xml">
+      <configuration name="SwapTheStringValueTest.givenTwoStringReturnOneEmptyStringOneswappedValue" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SwapTheStringValueTest_givenTwoStringReturnOneEmptyStringOneswappedValue - 2019.07.04 at 15h 36m 11s.xml">
+      <configuration name="SwapTheStringValueTest.givenTwoStringReturnOneEmptyStringOneswappedValue" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SwapTheStringValueTest_givenTwoStringReturnOneEmptyStringOneswappedValue - 2019.07.04 at 15h 36m 37s.xml">
+      <configuration name="SwapTheStringValueTest.givenTwoStringReturnOneEmptyStringOneswappedValue" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SortRandomNamesTest_givenStringReturnSortedText - 2019.07.04 at 16h 20m 36s.xml">
+      <configuration name="SortRandomNamesTest.givenStringReturnSortedText" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="67" y="25" width="1533" height="875" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2131809" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.35695186" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.328877" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5003362" side_tool="true" weight="0.328877" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49966374" weight="0.328877" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21049093" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.35695186" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout-to-restore>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../Exercise 4/src/java/com/stakeroute/exercise4/CharacterCount.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/com/stakeroute/exercise5/ArrayListUpdateTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="10" column="46" selection-start-line="10" selection-start-column="46" selection-end-line="10" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/com/stakeroute/exercise5/StringCountTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="33" column="27" selection-start-line="33" selection-start-column="27" selection-end-line="33" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/com/stakeroute/exercise5/StudentTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="424">
+          <caret line="40" column="189" selection-start-line="40" selection-start-column="189" selection-end-line="40" selection-end-column="189" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/com/stakeroute/exercise5/ReturnTrueFalseTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/com/stakeroute/exercise5/SwapTheStringValueTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="29" column="61" selection-start-line="29" selection-start-column="61" selection-end-line="29" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/com/stakeroute/exercise5/SortRandomNamesTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="22" column="22" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/com/stakeroute/exercise5/StringCount.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="13" column="58" selection-start-line="13" selection-start-column="58" selection-end-line="13" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/com/stakeroute/exercise5/SortRandomNames.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="42" selection-start-line="12" selection-start-column="42" selection-end-line="12" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/com/stakeroute/exercise5/ArrayListUpdate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/com/stakeroute/exercise5/ReturnTrueFalse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="370">
+          <caret line="34" column="50" selection-start-line="34" selection-start-column="50" selection-end-line="34" selection-end-column="50" />
+          <folding>
+            <element signature="e#0#1286#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/com/stakeroute/exercise5/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#2062#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/com/stakeroute/exercise5/SwapTheStringValue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="73" selection-start-line="26" selection-start-column="73" selection-end-line="26" selection-end-column="73" />
+          <folding>
+            <element signature="e#0#905#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
